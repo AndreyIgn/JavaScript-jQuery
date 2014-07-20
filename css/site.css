@@ -1,0 +1,16 @@
+.wrapper {
+    margin: 20px;
+    font-size: 16px;
+}
+
+.spreadsheet {
+    border-width: 0;
+    border-spacing: 0;
+    border-collapse: separate;
+}
+
+.spreadsheet input {
+    padding: 3px;
+    margin: 0;
+    border-width: 2px;
+}
